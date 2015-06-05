@@ -1,7 +1,7 @@
 Package.describe({
   name: "ryanswapp:fabricjs",
   summary: "Wrapper for Fabric.js, a javascript library for working with canvas",
-  version: "0.1.0",
+  version: "0.1.1",
   git: "https://github.com/ryanswapp/fabricjs"
 });
 
